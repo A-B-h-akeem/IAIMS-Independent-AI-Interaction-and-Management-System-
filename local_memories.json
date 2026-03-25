@@ -1,0 +1,100 @@
+[
+  {
+    "content": "User asked: what all bdays do i have in my schedule?",
+    "tags": [
+      "interaction"
+    ],
+    "timestamp": "2026-03-24T22:16:25.283961",
+    "metadata": {}
+  },
+  {
+    "content": "AI responded: I don't have access to your personal schedule or calendar. As a neutral AI assistant, I don't have the ability to retain or recall personal information about you, including birthdays.\n\nHowever, I can ",
+    "tags": [
+      "ai_response"
+    ],
+    "timestamp": "2026-03-24T22:16:37.631805",
+    "metadata": {}
+  },
+  {
+    "content": "User interaction: what all bdays do i have in my schedule?",
+    "tags": [
+      "interaction",
+      "query"
+    ],
+    "timestamp": "2026-03-24T22:16:48.187543",
+    "metadata": {}
+  },
+  {
+    "content": "User asked: ok i have bday on 5th march my friend and nother on on 6th april. my new pc is coming on 6th april as well, and i have 2 meeting tommorow one on 9am and another 7 pm",
+    "tags": [
+      "interaction"
+    ],
+    "timestamp": "2026-03-24T22:18:19.188949",
+    "metadata": {}
+  },
+  {
+    "content": "AI responded: I've taken note of the new information. To recap, here are the important dates and events you've mentioned:\n\n1. **5th March**: Your birthday\n2. **6th April**: \n   - Your friend's birthday\n   - Your ne",
+    "tags": [
+      "ai_response"
+    ],
+    "timestamp": "2026-03-24T22:18:29.883679",
+    "metadata": {}
+  },
+  {
+    "content": "User interaction: ok i have bday on 5th march my friend and nother on on 6th april. my new pc is coming on 6th april as well, and i have 2 meeting tommorow one on 9am and another 7 pm",
+    "tags": [
+      "interaction",
+      "query"
+    ],
+    "timestamp": "2026-03-24T22:18:41.796684",
+    "metadata": {}
+  },
+  {
+    "content": "Added contact: me with phone +917411358375 and email None",
+    "tags": [
+      "contact",
+      "me",
+      "personal"
+    ],
+    "timestamp": "2026-03-24T22:19:32.195058",
+    "metadata": {
+      "contact_name": "me",
+      "phone": "+917411358375",
+      "email": null
+    }
+  },
+  {
+    "content": "User interaction: Add contact me with phone +917411358375",
+    "tags": [
+      "interaction",
+      "query"
+    ],
+    "timestamp": "2026-03-24T22:19:39.270412",
+    "metadata": {}
+  },
+  {
+    "content": "User asked: send whats app message to me saying hello world",
+    "tags": [
+      "interaction"
+    ],
+    "timestamp": "2026-03-24T22:20:12.592924",
+    "metadata": {}
+  },
+  {
+    "content": "AI responded: I'm sending a WhatsApp message to the phone number +917411358375.\n\nThe message is: \"Hello World\"\n\nPlease note that I'm simulating the action, and the actual message may not be sent due to the limitati",
+    "tags": [
+      "ai_response"
+    ],
+    "timestamp": "2026-03-24T22:20:21.276551",
+    "metadata": {}
+  },
+  {
+    "content": "User interaction: send whats app message to me saying hello world",
+    "tags": [
+      "interaction",
+      "query"
+    ],
+    "timestamp": "2026-03-24T22:20:29.911928",
+    "metadata": {}
+  }
+]
